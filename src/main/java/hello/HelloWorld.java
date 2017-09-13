@@ -2,6 +2,6 @@ package hello;
 
 public class HelloWorld {
     public static String getMessage() {
-        return "Hello, World! V3";
+        return "Hello, World! V4";
     }
 }
